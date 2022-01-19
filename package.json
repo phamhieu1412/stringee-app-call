@@ -10,10 +10,25 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@expo/react-native-action-sheet": "^3.12.0",
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-navigation/core": "^6.1.0",
+    "@react-navigation/native": "^6.0.6",
+    "@react-navigation/native-stack": "^6.2.5",
+    "expo-image-picker": "^12.0.1",
+    "moment": "^2.29.1",
     "react": "16.13.1",
     "react-native": "0.63.4",
+    "react-native-device-info": "^8.4.8",
+    "react-native-emoji-selector": "^0.2.0",
     "react-native-flipper": "^0.125.0",
-    "redux-flipper": "^2.0.1"
+    "react-native-maps": "^0.30.1",
+    "react-native-safe-area-context": "^3.3.2",
+    "react-native-screens": "^3.10.1",
+    "react-native-vector-icons": "^9.0.0",
+    "recompose": "^0.30.0",
+    "redux-flipper": "^2.0.1",
+    "stringee-react-native": "^1.4.24"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
